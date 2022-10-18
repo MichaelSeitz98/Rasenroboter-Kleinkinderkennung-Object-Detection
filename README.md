@@ -1,2 +1,1 @@
-# Seminararbeit
-Seminararbeit_Michael_Seitz
+# Seminararbeit Michael_Seitz
