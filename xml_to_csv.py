@@ -5,7 +5,9 @@ import glob
 import pandas as pd
 import xml.etree.ElementTree as ET
 
-FOLDER_NAME_IMAGES = "C:/Users/michi/Documents/Fehlererkennung/models/research/object_detection/images_final/"
+
+#TODO: Wie bekomme ich das auch auf Colab ausgeführt, sodass nachvollziehbar? Wahrscheinlich gar nicht, sondern lade die labels.csv einfach mit auf GitLab hoch.
+FOLDER_NAME_IMAGES = " "
 
 def xml_to_csv(path):
     xml_list = []
@@ -29,7 +31,7 @@ def xml_to_csv(path):
 
 
 def main():
-    for folder in ['train_final', 'test_final']:
+    for folder in ['train', 'test']:
         image_path = os.path.join(os.getcwd(), (FOLDER_NAME_IMAGES + folder))
         xml_df = xml_to_csv(image_path)
         xml_df.to_csv((FOLDER_NAME_IMAGES +folder+'_labels.csv'), index=None)
