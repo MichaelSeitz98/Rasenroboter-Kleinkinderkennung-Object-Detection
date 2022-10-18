@@ -31,12 +31,10 @@ def class_text_to_int(row_label):
     else:
         return None
 
-
 def split(df, group):
     data = namedtuple('data', ['filename', 'object'])
     gb = df.groupby(group)
     return [data(filename, gb.get_group(x)) for filename, x in zip(gb.groups.keys(), gb.groups)]
-
 
 def create_tf_example(group, path):
     with tf.gfile.GFile(os.path.join(path, '{}'.format(group.filename)), 'rb') as fid:
@@ -78,7 +76,6 @@ def create_tf_example(group, path):
     }))
     return tf_example
 
-
 def main(_):
     writer = tf.python_io.TFRecordWriter(FLAGS.output_path)
     path = os.path.join(FLAGS.image_dir)
@@ -91,7 +88,6 @@ def main(_):
     writer.close()
     output_path = os.path.join(os.getcwd(), FLAGS.output_path)
     print('Successfully created the TFRecords: {}'.format(output_path))
-
 
 if __name__ == '__main__':
     tf.app.run()
