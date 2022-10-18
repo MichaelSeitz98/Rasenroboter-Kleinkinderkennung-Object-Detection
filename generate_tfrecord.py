@@ -26,12 +26,8 @@ FLAGS = flags.FLAGS
 
 
 def class_text_to_int(row_label):
-    if row_label == 'mutter':
+    if row_label == 'child':
         return 1
-    elif row_label == 'kratzer':
-        return 2
-    elif row_label == 'druckstelle':
-        return 3
     else:
         return None
 
