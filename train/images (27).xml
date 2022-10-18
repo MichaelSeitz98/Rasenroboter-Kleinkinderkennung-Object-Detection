@@ -1,0 +1,50 @@
+<annotation>
+	<folder>01_Datensatz</folder>
+	<filename>images (27).jpg</filename>
+	<path>C:\Users\michi\Documents\Master Information Systems WÜ\Seminararbeit\01_Datensatz\images (27).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>308</width>
+		<height>164</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>child</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>68</ymin>
+			<xmax>178</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>child</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>46</ymin>
+			<xmax>211</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>child</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>5</ymin>
+			<xmax>277</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
