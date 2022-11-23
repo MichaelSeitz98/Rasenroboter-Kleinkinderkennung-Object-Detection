@@ -1,4 +1,4 @@
-## Erkennung von Kleinkindern bei Rasenmährobotern für mehr Sicherheit
+# Erkennung von Kleinkindern bei Rasenmährobotern für mehr Sicherheit
 
 Sie sind überall und nicht mehr wegzudenken aus Wohngebieten, Gartenanlagen, Fußballplätzen oder öffentlichen Rasenflächen - die Rasenmähroboter.
 Im April 2020 testete Stiftung Warentest elf verschiedene Modelle und kommt zu einem besorgniseregendes Fazit mit der folgenden Schlagzeile.
