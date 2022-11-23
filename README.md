@@ -13,7 +13,8 @@ Um diese Gefahr zu reduzieren, habe ich auf eine protoypische Objekterkennung en
 ## Genauigkeit und Rechenzeiten
 
 
-# Mobile Echtzeit-Anwendung unter Realbedingungen
+
+## Mobile Echtzeit-Anwendung unter Realbedingungen
 
 Um einen möglichst realistischen Anwendung zu erhalten, habe ich das Modell in das TF-Lite Format exportiert. Dadurch lässt sich eine kamerabasierte Echtzeitanwendung erstellen, die einen Praxiseinsatz bei Rasenmähroboter realistisch simuliert.
 
