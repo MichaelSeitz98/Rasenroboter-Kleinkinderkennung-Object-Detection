@@ -13,6 +13,8 @@ Um diese Gefahr zu reduzieren, habe ich auf eine protoypische Objekterkennung en
 ## Genauigkeit und Rechenzeiten
 
 
+Bei den Rechenzeiten ergibt sich der folgende Vergleich
+<img src="./res/Rechnenzeiten.png" width="620"/>
 
 ## Mobile Echtzeit-Anwendung unter Realbedingungen
 
