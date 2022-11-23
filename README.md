@@ -18,7 +18,7 @@ Um diese Gefahr zu reduzieren, habe ich auf eine protoypische Objekterkennung en
 
 Die vier ausgewählten Modelle wurden auf die Erkennung trainiert und bezüglich Genauigkeit und Infernezzeit untersucht. 
 
-Bei den Rechenzeiten ergibt sich der folgende Vergleich: 
+Bei den Rechenzeiten ergibt sich der folgende Vergleich (mit GPU)
 
 <img src="./res/Inferenzzeiten_GPU_Val_1024px_rot.png" width="620"/>
 
