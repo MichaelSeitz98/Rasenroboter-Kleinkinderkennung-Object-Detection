@@ -24,6 +24,6 @@ Bei den Rechenzeiten ergibt sich der folgende Vergleich (mit GPU)
 
 ## Mobile Echtzeit-Anwendung unter Realbedingungen
 
-Um einen möglichst realistischen Anwendung zu erhalten, habe ich das Modell in das TF-Lite Format exportiert. Dadurch lässt sich eine kamerabasierte Echtzeitanwendung erstellen, die einen Praxiseinsatz bei Rasenmähroboter realistisch simuliert.
+Um einen möglichst realistischen Anwendung zu erhalten, habe ich das Modell in das TF-Lite Format exportiert. Dadurch lässt sich eine kamerabasierte Echtzeitanwendung erstellen, die einen Praxiseinsatz bei Rasenroboter realistisch simuliert.
 
 <img src="./res/Einstellungsmöglichkeiten_und_Vollbild_App.png" width="620"/>
