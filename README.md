@@ -15,7 +15,7 @@ Die vier ausgewählten Modelle wurden auf die Erkennung trainiert und bezüglich
 
 Bei den Rechenzeiten ergibt sich der folgende Vergleich: 
 
-<img src="./res/Inferenzzeiten_GPU_Val_1024px.png" width="820"/>
+<img src="./res/Inferenzzeiten_GPU_Val_1024px_rot.png" width="820"/>
 
 ## Mobile Echtzeit-Anwendung unter Realbedingungen
 
