@@ -12,7 +12,7 @@ Um diese Gefahr zu reduzieren, habe ich auf eine protoypische Objekterkennung en
 ## Genauigkeit und Rechenzeiten
 
 Bei den Rechenzeiten ergibt sich der folgende Vergleich
-<img src=".res/Inferenzzeiten_GPU_Val_1024px.png" width="620"/>
+<img src=".res/Inferenzzeiten_GPU_Val_1024px.png" width="420"/>
 
 ## Mobile Echtzeit-Anwendung unter Realbedingungen
 
