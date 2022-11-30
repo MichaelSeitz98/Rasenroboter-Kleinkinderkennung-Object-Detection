@@ -18,6 +18,7 @@ Um diese Gefahr zu reduzieren, habe ich auf eine protoypische Objekterkennung en
 
 Die vier ausgewählten Modelle wurden auf die Erkennung von Kleinkindern trainiert und bezüglich Genauigkeit und Inferenzzeit untersucht. 
 
+<img src="./res/map50vergleich.png" width="620"/>
 Bei den Rechenzeiten ergibt sich der folgende Vergleich (mit GPU-Unterstützung):
 
 <img src="./res/Inferenzzeiten_GPU_Val_1024px_rot.png" width="620"/>
