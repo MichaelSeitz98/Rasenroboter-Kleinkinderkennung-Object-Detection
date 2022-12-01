@@ -20,9 +20,11 @@ Die vier ausgewählten Modelle wurden auf die Erkennung von Kleinkindern trainie
 Mean Average Precision bei IoU-Schwellenwert von 0.5:
 
 <img src="./res/map50vergleich.jpg" width="620"/>
-Bei den Rechenzeiten ergibt sich der folgende Vergleich (mit GPU-Unterstützung):
+
+Bei den Rechenzeiten ergibt sich der folgende Vergleich: 
 
 <img src="./res/Inferenzzeiten_GPU_Val_1024px_rot.png" width="620"/>
+
 
 ## Mobile Echtzeit-Anwendung unter Realbedingungen
 
