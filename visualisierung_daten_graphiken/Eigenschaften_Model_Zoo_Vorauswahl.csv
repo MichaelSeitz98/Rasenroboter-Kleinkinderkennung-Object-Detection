@@ -1,0 +1,41 @@
+modelname;speed;map
+CenterNet HourGlass104 512x512;70;41,9
+CenterNet HourGlass104 Keypoints 512x512;76;40,0
+CenterNet HourGlass104 1024x1024;197;44,5
+CenterNet HourGlass104 Keypoints 1024x1024;211;42,8
+CenterNet Resnet50 V1 FPN 512x512;27;31,2
+CenterNet Resnet50 V1 FPN Keypoints 512x512;30;29,3
+CenterNet Resnet101 V1 FPN 512x512;34;34,2
+CenterNet Resnet50 V2 512x512;27;29,5
+CenterNet Resnet50 V2 Keypoints 512x512;30;27,6
+CenterNet MobileNetV2 FPN 512x512;6;23,4
+EfficientDet D0 512x512;39;33,6
+EfficientDet D1 640x640;54;38,4
+EfficientDet D2 768x768;67;41,8
+EfficientDet D3 896x896;95;45,4
+EfficientDet D4 1024x1024;133;48,5
+EfficientDet D5 1280x1280;222;49,7
+EfficientDet D6 1280x1280;268;50,5
+EfficientDet D7 1536x1536;325;51,2
+SSD MobileNet v2 320x320;19;20,2
+SSD MobileNet V1 FPN 640x640;48;29,1
+SSD MobileNet V2 FPNLite 320x320;22;22,2
+SSD MobileNet V2 FPNLite 640x640;39;28,2
+SSD ResNet50 V1 FPN 640x640 (RetinaNet50);46;34,3
+SSD ResNet50 V1 FPN 1024x1024 (RetinaNet50);87;38,3
+SSD ResNet101 V1 FPN 640x640 (RetinaNet101);57;35,6
+SSD ResNet101 V1 FPN 1024x1024 (RetinaNet101);104;39,5
+SSD ResNet152 V1 FPN 640x640 (RetinaNet152);80;35,4
+SSD ResNet152 V1 FPN 1024x1024 (RetinaNet152);111;39,6
+Faster R-CNN ResNet50 V1 640x640;53;29,3
+Faster R-CNN ResNet50 V1 1024x1024;65;31
+Faster R-CNN ResNet50 V1 800x1333;65;31,6
+Faster R-CNN ResNet101 V1 640x640;55;31,8
+Faster R-CNN ResNet101 V1 1024x1024;72;37,1
+Faster R-CNN ResNet101 V1 800x1333;77;36,6
+Faster R-CNN ResNet152 V1 640x640;64;32,4
+Faster R-CNN ResNet152 V1 1024x1024;85;37,6
+Faster R-CNN ResNet152 V1 800x1333;101;37,4
+Faster R-CNN Inception ResNet V2 640x640;206;37,7
+Faster R-CNN Inception ResNet V2 1024x1024;236;38,7
+Mask R-CNN Inception ResNet V2 1024x1024;301;39,0
