@@ -37,8 +37,6 @@ class ObjectDetectorHelper(
   val objectDetectorListener: DetectorListener?
 ) {
 
-    // For this example this needs to be a var so it can be reset on changes. If the ObjectDetector
-    // will not change, a lazy val would be preferable.
     private var objectDetector: ObjectDetector? = null
 
     init {
@@ -49,18 +47,14 @@ class ObjectDetectorHelper(
         objectDetector = null
     }
 
-    // Initialize the object detector using current settings on the
-    // thread that is using it. CPU and NNAPI delegates can be used with detectors
-    // that are created on the main thread and used on a background thread, but
-    // the GPU delegate needs to be used on the thread that initialized the detector
     fun setupObjectDetector() {
-        // Create the base options for the detector using specifies max results and score threshold
+    
         val optionsBuilder =
             ObjectDetector.ObjectDetectorOptions.builder()
                 .setScoreThreshold(threshold)
                 .setMaxResults(maxResults)
 
-        // Set general detection options, including number of used threads
+        
         val baseOptionsBuilder = BaseOptions.builder().setNumThreads(numThreads)
 
         // Use the specified hardware for running the model. Default to CPU
