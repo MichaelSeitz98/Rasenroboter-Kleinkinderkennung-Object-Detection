@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>image72.jpg</filename>
+	<path>G:\Meine Ablage\DS2_POOLG_80_20_20_1024px\validation\image72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>child</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>152</ymin>
+			<xmax>861</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>
