@@ -30,4 +30,4 @@ Bei den Rechenzeiten ergibt sich der folgende Vergleich:
 
 Um einen möglichst realistischen Anwendung zu erhalten, habe ich das Modell in das TF-Lite Format exportiert. Dadurch lässt sich eine kamerabasierte Echtzeitanwendung erstellen, die einen Praxiseinsatz bei Rasenroboter realistisch simuliert.
 
-<img src="./res/einstellungsmöglichkeiten_und_vollbild_app.png" width="620"/>
+<img src="./res/einstellungsmöglichkeiten_und_vollbild_app.png" width="620"/>ig
