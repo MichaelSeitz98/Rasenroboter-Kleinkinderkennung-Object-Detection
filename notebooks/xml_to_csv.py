@@ -6,7 +6,6 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 
 
-#TODO: Wie bekomme ich das auch auf Colab ausgeführt, sodass nachvollziehbar? Wahrscheinlich gar nicht, sondern lade die labels.csv einfach mit auf GitLab hoch.
 FOLDER_NAME_IMAGES = " "
 
 def xml_to_csv(path):
