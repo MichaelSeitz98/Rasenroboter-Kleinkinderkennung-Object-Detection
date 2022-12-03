@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image243.jpg</filename>
+	<path>G:\Meine Ablage\DS2_POOLG_80_20_20_1024px\train\image243.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>683</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>child</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>294</ymin>
+			<xmax>568</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+</annotation>
