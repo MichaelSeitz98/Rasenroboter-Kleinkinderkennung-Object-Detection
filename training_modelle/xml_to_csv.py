@@ -1,12 +1,9 @@
-# based on https://github.com/datitran/raccoon_dataset/blob/master/xml_to_csv.py
-
 import os
 import glob
 import pandas as pd
 import xml.etree.ElementTree as ET
 
-
-FOLDER_NAME_IMAGES = " "
+folder_name_images = " "
 
 def xml_to_csv(path):
     xml_list = []
@@ -31,9 +28,9 @@ def xml_to_csv(path):
 
 def main():
     for folder in ['train', 'test']:
-        image_path = os.path.join(os.getcwd(), (FOLDER_NAME_IMAGES + folder))
+        image_path = os.path.join(os.getcwd(), (folder_name_images + folder))
         xml_df = xml_to_csv(image_path)
-        xml_df.to_csv((FOLDER_NAME_IMAGES +folder+'_labels.csv'), index=None)
+        xml_df.to_csv((folder_name_images +folder+'_labels.csv'), index=None)
     print('Successfully converted xml to csv.')
 
 
