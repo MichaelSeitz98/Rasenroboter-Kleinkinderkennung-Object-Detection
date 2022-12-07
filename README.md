@@ -6,7 +6,7 @@ Im April 2020 testete Stiftung Warentest elf verschiedene Modelle und kommt zu e
 <img src="./res/abbildungen/schlagzeile_klein.png" width="620" /> 
 Quelle: https://www.zeit.de (25.03.2020) 
 
-<img src="./res/abbildungen/kind_vor_roboter.jpg" width="620" /> 
+<img src="./res/abbildungen/kind_vor_roboter_ohne_box.jpg" width="620" /> 
 
 Kleinkinder, die sich auf dem Rasen befinden, werden durch die Roboter angefahren und im Fuß- und Armbereich verletzt. Alle  Roboter haben zwar Sensoren verbaut, um Hindernisse zu erkennen, jedoch reagieren diese Sensoren im Fall von Kleinkindern erst nach einer gewissen Zeit bzw. einem gewissen Widerstand. In genau dieser Zeit können Verletzungen durch den Rasenmäher verursacht werden.
 
