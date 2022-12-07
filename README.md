@@ -4,7 +4,7 @@ Sie sind überall und nicht mehr wegzudenken aus Wohngebieten, Gartenanlagen, Fu
 Im April 2020 testete Stiftung Warentest elf verschiedene Modelle und kommt zu einem besorgniseregendem Fazit:
 
 <img src="./res/abbildungen/schlagzeile_klein.png" width="620" /> 
-Quelle: https://www.zeit.de (25.03.2020) 
+Quelle: ww.zeit.de (25.03.2020) 
 
 <img src="./res/abbildungen/kind_vor_roboter_ohne_box.jpg" width="620" /> 
 
