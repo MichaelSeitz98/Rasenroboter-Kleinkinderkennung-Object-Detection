@@ -24,7 +24,7 @@ Die vier ausgewählten Modelle wurden auf die Erkennung von Kleinkindern trainie
 
 Bei den Rechenzeiten ergibt sich der folgende Vergleich: 
 
-<img src="./res/abbildungen/inferenzzeiten_gpu.png" width="620"/>
+<img src="./res/abbildungen/inferenzzeiten_gpu.jpg" width="620"/>
 
 
 ## Mobile Echtzeit-Anwendung unter Realbedingungen
