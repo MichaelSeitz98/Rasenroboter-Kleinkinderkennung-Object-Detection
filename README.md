@@ -20,9 +20,10 @@ Um diese Gefahr zu reduzieren, habe ich auf eine protoypische Objekterkennung en
 
 Die vier ausgewählten Modelle wurden auf die Erkennung von Kleinkindern trainiert und bezüglich Genauigkeit und Inferenzzeit untersucht. Mean Average Precision bei IoU-Schwellenwert von 0.5:
 
-<img src="./res/abbildungen/map50vergleich.jpg" width="620"/>
+<img src="./res/abbildungen/map_vergleich.jpg" width="620"/>
 
-Bei den Rechenzeiten ergibt sich der folgende Vergleich: 
+
+<!-- Bei den Rechenzeiten ergibt sich der folgende Vergleich:  -->
 
 <img src="./res/abbildungen/inferenzzeiten_gpu.jpg" width="620"/>
 
