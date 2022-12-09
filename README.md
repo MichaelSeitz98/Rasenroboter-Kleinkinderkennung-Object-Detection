@@ -32,4 +32,7 @@ Die vier ausgewählten Modelle wurden auf die Erkennung von Kleinkindern trainie
 
 Um einen möglichst realistischen Anwendung zu erhalten, habe ich das Modell in das TF-Lite Format exportiert. Dadurch lässt sich eine kamerabasierte Echtzeitanwendung erstellen, die einen Praxiseinsatz bei Rasenroboter realistisch simuliert.
 
+
+<img src="./res/abbildungen/anwendung_roboter.png" width="620"/>
+
 <img src="./res/abbildungen/einstellungsmöglichkeiten_und_vollbild_app.png" width="620"/>
