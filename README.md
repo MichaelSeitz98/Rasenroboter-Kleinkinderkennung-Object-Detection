@@ -12,7 +12,7 @@ Kleinkinder, die sich auf dem Rasen befinden, werden durch die Roboter angefahre
 
 ## Objekterkennung mit Tensorflow Object Detection API
 
-Um diese Gefahr zu reduzieren, habe ich auf eine protoypische Objekterkennung entwickelt, die speziell Kleinkinder aus Perspektive des Rasenmährobotersobotors detektiert. Dafür habe ich die vier verschiedene Modelle aus dem Tensorflow Model Zoo (https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) verwendet und auf meinen Anwendungsanfall traniert:  
+Um diese Gefahr zu reduzieren, habe ich auf eine protoypische Objekterkennung entwickelt, die speziell Kleinkinder aus Perspektive des Rasenmährobotersobotors detektiert. Dafür habe ich die vier verschiedene Modelle aus dem Tensorflow Model Zoo (https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) verwendet und auf meinen Anwendungsanfall trainiert:  
 
 <img src="./res/abbildungen/auswahl_model_zoo.jpg" width="620"/>
 
